@@ -1,0 +1,24 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "Exercises listed in this repo are..   1. mongoose basics   2. mongoose schema, models and validations   3. CRUD in mongoose   4. structing data/document using mongoose models and associations",
+  "main": "answer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxagno3/mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxagno3/mongoose/issues"
+  },
+  "homepage": "https://github.com/maxagno3/mongoose#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.11",
+    "node": "^14.0.0"
+  }
+}
